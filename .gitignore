@@ -1,0 +1,12 @@
+# R specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Mac OS specific files
+.DS_Store
+
+# Large data files (optional)
+# Uncomment if you want to exclude the document store from git
+# document_store.csv
